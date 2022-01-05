@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.xingguang.gxs</groupId>
-	<artifactId>xingguang</artifactId>
+	<groupId>com.xingguan.gxs</groupId>
+	<artifactId>xingguan</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
@@ -167,11 +167,11 @@
 	</dependencyManagement>
 
 	<modules>
-		<module>xingguang-common</module>
-		<module>xingguang-user</module>
-		<module>xingguang-gateway</module>
-		<module>xingguang-admin</module>
-		<module>xingguang-api</module>
-		<module>xingguang-douyin</module>
+		<module>xingguan-common</module>
+		<module>xingguan-user</module>
+		<module>xingguan-gateway</module>
+		<module>xingguan-admin</module>
+		<module>xingguan-api</module>
+		<module>xingguan-douyin</module>
 	</modules>
 </project>
