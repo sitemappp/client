@@ -1,3 +1,3 @@
-# xingguang
+# xingguan
 
-xingguang，父项目，jar管理
+xingguan，父项目，jar管理
