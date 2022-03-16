@@ -374,5 +374,6 @@
 		<module>xingguan-gateway</module>
 		<module>xingguan-admin</module>
 		<module>xingguan-douyin</module>
+		<module>xingguan-douying</module>
 	</modules>
 </project>
