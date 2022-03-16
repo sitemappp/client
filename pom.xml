@@ -369,10 +369,11 @@
 
 	<modules>
 		<module>xingguan-common</module>
+		<module>xingguan-api</module>
 		<module>xingguan-user</module>
 		<module>xingguan-gateway</module>
 		<module>xingguan-admin</module>
-		<module>xingguan-api</module>
 		<module>xingguan-douyin</module>
+		<module>xingguan-douying</module>
 	</modules>
 </project>
